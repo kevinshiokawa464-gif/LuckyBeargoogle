@@ -37,9 +37,9 @@ header .container {
 }
 
 .logo {
-    width: 120px;
+    width: 140px;
     height: auto;
-    border-radius: 50%;
+    border-radius: 12px;
     border: 3px solid var(--primary-color);
     margin-bottom: 15px;
     box-shadow: 0 0 20px rgba(255, 204, 0, 0.4);
