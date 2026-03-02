@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffcc00"/>
+      <stop offset="100%" stop-color="#cca300"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" fill="#0f0f0f"/>
+  <circle cx="120" cy="120" r="95" fill="#1a1a1a" stroke="url(#gold)" stroke-width="8"/>
+  <circle cx="120" cy="120" r="70" fill="#111" stroke="#333" stroke-width="2"/>
+  <text x="120" y="118" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" text-anchor="middle" fill="#ffffff" letter-spacing="2">LB</text>
+  <text x="120" y="168" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="url(#gold)">LUCKY BEAR</text>
+</svg>
