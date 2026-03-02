@@ -1,10 +1,5 @@
 {
   "version": 2,
-  "functions": {
-    "api/root.ts": {
-      "runtime": "edge"
-    }
-  },
   "rewrites": [
     { "source": "/", "destination": "/api/root" }
   ],
