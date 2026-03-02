@@ -5,8 +5,10 @@
       "runtime": "edge"
     }
   },
+  "rewrites": [
+    { "source": "/", "destination": "/api/root" }
+  ],
   "routes": [
-    { "src": "^/$", "dest": "/api/root" },
     { "src": "^/robots.txt$", "dest": "/robots.txt" },
     { "src": "^/sitemap.xml$", "dest": "/sitemap.xml" }
   ]
